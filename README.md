@@ -1,2 +1,2 @@
-# Procesamiento-de-Im-genes
+# Procesamiento-de-Imágenes
 Prácticas de procesamiento de imágenes
